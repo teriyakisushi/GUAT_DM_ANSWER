@@ -6,7 +6,7 @@
 
 ## 如何使用
 
-> 克隆本项目或直接[下载](https://github.com/teriyakisushi/GUAT_DM_ANSWER/releases/)已经分好类的答案图像文件，按你所需要的章节查看题目图像即可，答案已经绘制在图像上。
+> 克隆本项目或直接[下载](https://github.com/teriyakisushi/GUAT_DM_ANSWER/releases/)已经按章节分好类的题目图像，答案已经绘制在图像上了。
 
 有效利用: 可以使用OCR识别生成文本并存储起来，与本仓库的 `ans.json`联动，构建题库。
 
