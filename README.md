@@ -1,4 +1,3 @@
-# README
 
 ## What is this repo for?
 
