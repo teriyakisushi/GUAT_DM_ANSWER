@@ -30,7 +30,7 @@ def child_id_to_pid(child_id):
 ## 仓库文件说明
 
 - `ans_imgs`: 答案图片存储的文件夹
-  - 目录下已经对各章节的题目进行分类，并去除 
+  - 目录下已经对各章节的题目进行分类，并去除重复题
   - 图像命名格式为 `tid_{tid}_{episode}.png`，例如 `tid_1_A1.png`
 
 - `ans.json` : 答案存储文件，格式为:`{"tid", "episode", "ans"}`
